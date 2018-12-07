@@ -1,0 +1,10 @@
+Person
+Zbylych lodi:       9/9
+Zbylych bloku lodi: 18/18
+Uzpesnost zasahu:   25.00%
+
+
+PC
+Zbylych lodi:       8/9
+Zbylych bloku lodi: 17/18
+Uzpesnost zasahu:   0.00%
